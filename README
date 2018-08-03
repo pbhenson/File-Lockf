@@ -20,11 +20,11 @@ To compile and install File-Lockf, simply run the following commands:
      make install
 
 
-File-Lockf has only been tested under Solaris 2.5-8. It is possible that it
-will not compile as-is under other operating systems. If you can't get
-File-Lockf to compile, please contact me and I'll try to help you figure
-out what changes are needed for your platform, and potentially merge them
-into the distribution.
+File-Lockf has been tested under Solaris 2.5-10 and Linux. It is possible that
+it will not compile as-is under other operating systems. If you can't get
+File-Lockf to compile, please contact me and I'll try to help you figure out
+what changes are needed for your platform, and potentially merge them into the
+distribution.
 
 The File-Lockf module contains usage instructions, which can be viewed
 after installation by typing either "man File::lockf" or "perldoc
@@ -51,6 +51,6 @@ Please report any bugs or feature requests to <henson@acm.org>.
 
 
 The latest version of File-Lockf is currently available on CPAN, or
-via the URL:
+via github:
 
-http://www.csupomona.edu/~henson/www/projects/File-Lockf/
+	https://github.com/pbhenson/File-Lockf
