@@ -34,6 +34,9 @@ File::lockf".
 Changes
 -------
 
+0.26 - Add metadata to Makefile.PL and bump version for release
+       containing META.json/META.yml.
+
 0.25 - Added new method to return file handle associated with lock
        object.
 

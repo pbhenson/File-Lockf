@@ -18,7 +18,7 @@ require DynaLoader;
 
 @EXPORT = qw();
 
-$VERSION = '0.20';
+$VERSION = '0.26';
 
 bootstrap File::lockf $VERSION;
 
